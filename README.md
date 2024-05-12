@@ -1,6 +1,8 @@
 # Stopwatch using HTML, CSS, and JavaScript
 
 This project implements a simple stopwatch using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.
+![Screenshot 2024-05-12 201716](https://github.com/DikshitaRao/Prodigy_WD_02-V-Dikshita-Rao-/assets/161601609/c3f5070b-97c5-494c-8547-6866a0471568)
+
 
 ## Table of Contents
 
